@@ -1,7 +1,7 @@
 <!-- Windows-System-32 -->
 
 <p align="center">
-  <img src="https://encrypted-tbn3.gstatic.com/images q=tbn:ANd9GcTr8qItAiFw4YxlpCLOD9_0cfzyqb-6rSIBrvoawd7uQM6deoEI">
+  <img src="images.jpeg">
 </p>
 
 <h3><p align="center">Deleting Windows System32 Folder</p></h3>
