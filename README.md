@@ -1,3 +1,9 @@
+<!-- Windows-System-32 -->
+
+<p align="center">
+  <img src="https://encrypted-tbn3.gstatic.com/images q=tbn:ANd9GcTr8qItAiFw4YxlpCLOD9_0cfzyqb-6rSIBrvoawd7uQM6deoEI">
+</p>
+
 <h3><p align="center">Deleting Windows System32 Folder</p></h3>
 
 This code attempts to delete the Windows System32 folder. The Windows System32 folder is a critical system directory that contains 32-bit libraries, drivers, and other essential components for the proper functioning of the operating system. Deleting this folder can lead to severe issues with your operating system.
