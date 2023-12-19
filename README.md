@@ -17,7 +17,7 @@ It is important to note that running this code is not recommended and should onl
 
 <h3><p align="center">How to Use</p></h3>
 
-##(Windows)
+(Windows Only)
 
 1. Download the code and run it in a Python environment.
 2. If a random number between 0 and 6 is equal to 1, the code will attempt to delete the Windows System32 folder.
