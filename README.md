@@ -1,22 +1,24 @@
-# Deleting Windows System32 Folder
+<h3><p align="center">Deleting Windows System32 Folder</p></h3>
 
 This code attempts to delete the Windows System32 folder. The Windows System32 folder is a critical system directory that contains 32-bit libraries, drivers, and other essential components for the proper functioning of the operating system. Deleting this folder can lead to severe issues with your operating system.
 
 It is important to note that running this code is not recommended and should only be done at your own risk.
 
-## Requirements
+<h3><p align="center">Requirements</p></h3>
 
 - Python 3.6 or higher
 - Admin rights to run this code (Windows only)
 
-## How to Use
+<h3><p align="center">How to Use</p></h3>
+
+##(Windows)
 
 1. Download the code and run it in a Python environment.
 2. If a random number between 0 and 6 is equal to 1, the code will attempt to delete the Windows System32 folder.
 
 Please remember to use this code responsibly and avoid running it in a production environment.
 
-## Code Explanation
+<h3><p align="center">Code Explanation</p></h3>
 
 The code is written in Python and utilizes the `random` and `os` modules.
 
